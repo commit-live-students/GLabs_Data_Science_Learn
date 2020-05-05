@@ -11,3 +11,5 @@ The folders in this repository will cotain files required for the code alongs. T
 - [IPL Dataset analysis using basic python constructs](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/IPL%20Dataset%20analysis%20using%20basic%20python%20constructs)
 - [Visualize Indian Election Data Analysis using Pandas](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Visualize%20Indian%20Election%20Data%20Analysis%20using%20Pandas)
 - [Big Mart Sales Prediction using Linear Regression](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Big%20Mart%20Sales%20Prediction%20using%20Linear%20Regression)
+- [Salary Bracket Prediction using Decision Tree](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Salary%20Bracket%20Prediction%20using%20Decision%20Tree)
+- [Visualizing Cricket Team Performance using Matplotlib and Pandas](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Visualizing%20Cricket%20Team%20Performance%20using%20Matplotlib%20and%20Pandas)
