@@ -14,3 +14,5 @@ The folders in this repository will cotain files required for the code alongs. T
 - [Salary Bracket Prediction using Decision Tree](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Salary%20Bracket%20Prediction%20using%20Decision%20Tree)
 - [Visualizing Cricket Team Performance using Matplotlib and Pandas](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Visualizing%20Cricket%20Team%20Performance%20using%20Matplotlib%20and%20Pandas)
 - [IPL Dataset analysis using more loops and conditionals](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/IPL%20Dataset%20analysis%20using%20more%20loops%20and%20conditionals)
+- [Data Exploration of Automobile Data](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Data%20Exploration%20of%20Automobile%20Data)
+- [Email Classification - Spam or Ham using logistic regression](https://github.com/commit-live-students/GLabs_Data_Science_Learn/tree/master/Email%20Classification%20-%20Spam%20or%20Ham%20using%20logistic%20regression)
